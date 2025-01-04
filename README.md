@@ -4,6 +4,6 @@ This repository contains code to make figures for  the paper "Bias factorized, b
 
 To download corresponding models, contribution scores and modisco objects for each of the analysis, refer to the synpase repository - https://www.synapse.org/Synapse:syn59449898/files/
 
-**We will be improving the documentation of this repository through the following weeks. If you have any questions please reach out to anusri@stanford.edu**
+**We will be improving the documentation and cleaning up this repository through the following weeks. If you have any questions please reach out to anusri@stanford.edu**
 
 
